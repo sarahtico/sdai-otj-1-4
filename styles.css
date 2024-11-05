@@ -9,6 +9,13 @@
   align-items: center;
 }
 
+.image-second {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
 h2.width-800 {
   width: 800px
 }
@@ -52,7 +59,7 @@ p.menu {
   font-size: x-large;
   color: purple;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+} 
 
 .section-text {
   color: blueviolet;
@@ -63,3 +70,12 @@ p.menu {
 .padding-left {
   padding-left: 120px;
 }
+
+.row {
+  display:flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  }
+
+
