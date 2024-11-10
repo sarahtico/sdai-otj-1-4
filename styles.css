@@ -79,4 +79,12 @@ p.menu {
   justify-content: center;
 }
 
-
+.space-between {
+  justify-content: space-around;
+}
+.round { 
+  border-radius: 50%; 
+  border-width: 5px;
+  border-color: purple;  
+  border-style: solid;
+}
