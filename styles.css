@@ -79,7 +79,7 @@ p.menu {
   justify-content: center;
 }
 
-.space-between {
+.space-around {
   justify-content: space-around;
 }
 .round { 
@@ -87,4 +87,14 @@ p.menu {
   border-width: 5px;
   border-color: purple;  
   border-style: solid;
+}
+
+.small-border {
+  border-width: 3px; 
+}
+.margin-left {
+  margin-left: 60px;
+}
+.margin-right{ 
+  margin-right: 60px; 
 }
