@@ -105,3 +105,15 @@ p.menu {
   border-style: solid;
   border-radius: 30px 
 } 
+
+.header {
+  padding-bottom:20px;
+  padding-top:20px;
+  text-align: left;
+  color: green; 
+  font-size: 25px; 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex; 
+  justify-content: space-around;
+}
+
