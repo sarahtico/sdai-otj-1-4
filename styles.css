@@ -98,3 +98,10 @@ p.menu {
 .margin-right{ 
   margin-right: 60px; 
 }
+
+.border {
+  border-width: 6px;
+  border-color: purple;  
+  border-style: solid;
+  border-radius: 30px 
+} 
