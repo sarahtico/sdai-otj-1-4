@@ -117,3 +117,8 @@ p.menu {
   justify-content: space-around;
 }
 
+a {
+  text-decoration: none !important;
+  color: maroon !important;
+}
+
